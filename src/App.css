@@ -1,5 +1,6 @@
 html, body {
-  font-family: 'Open Sans';
+  background-color: aliceblue;
+  font-family: Helvetica, Arial, 'Open Sans', sans-serif;
 }
 
 .App {
